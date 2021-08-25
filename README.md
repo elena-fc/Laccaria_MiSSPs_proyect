@@ -12,7 +12,8 @@ This is 'MiSSPs tesis' repository under construction
 2. Download fasta files of *Laccaria* proteomes available on public databases (NCBI https://www.ncbi.nlm.nih.gov, JGI Mycocosm https://mycocosm.jgi.doe.gov/mycocosm/home) and those obtained in the laboratory; as well as *Laccaria* MiSSPs available protein sequences in public databases (NCBI https://www.ncbi.nlm.nih.gov)
 3. Search for MiSSPs of *Laccaria bicolor* in genomes and proteomes of species of the genus.
 4. Predict nuclear localized and apoplastic secreted effector proteins
-5. Homology detection
+![pipeline](C:\Users\Alicia\Desktop\Temporaaal\TALLER 2020-2\GENÓMICA ECOLÓGICA\Taller nivel 2\PROYECTO TESIS\PAPER PROTOCOLO\pipeline.JPG)
+6. Homology detection
 
 ##### Directory structure
 
