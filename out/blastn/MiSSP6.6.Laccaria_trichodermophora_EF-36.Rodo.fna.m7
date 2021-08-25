@@ -1,0 +1,39 @@
+# TBLASTN 2.11.0+
+# Query: MiSSP6.6 XP_001876981.1
+# Database: ../data/Laccaria_trichodermophora_EF-36.Rodo.fna
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 33 hits found
+MiSSP6.6	scaffold52_size145467_pilon_pilon_pilon	91.525	59	5	0	1	59	76052	76228	1.19e-30	111
+MiSSP6.6	scaffold4_size3209374_pilon_pilon_pilon	93.220	59	4	0	1	59	377386	377562	1.19e-30	111
+MiSSP6.6	scaffold4_size3209374_pilon_pilon_pilon	49.091	55	23	1	1	55	376403	376552	3.06e-10	53.9
+MiSSP6.6	scaffold53_size143094_pilon_pilon_pilon	49.091	55	23	1	1	55	90248	90397	4.01e-12	59.3
+MiSSP6.6	scaffold31_size1026661_pilon_pilon_pilon	58.333	36	15	0	1	36	368719	368826	2.52e-10	53.9
+MiSSP6.6	scaffold16_size1220832_pilon_pilon_pilon	58.333	36	15	0	1	36	879306	879413	2.52e-10	53.9
+MiSSP6.6	scaffold16_size1220832_pilon_pilon_pilon	45.614	57	25	3	1	57	889161	889313	6.74e-07	44.3
+MiSSP6.6	scaffold22_size1423048_pilon_pilon_pilon	58.333	36	15	0	1	36	1136558	1136665	2.52e-10	53.9
+MiSSP6.6	scaffold22_size1423048_pilon_pilon_pilon	51.515	33	16	0	1	33	167743	167645	4.83e-07	44.7
+MiSSP6.6	scaffold22_size1423048_pilon_pilon_pilon	51.515	33	16	0	1	33	209608	209510	4.07e-06	42.4
+MiSSP6.6	scaffold3_size3686035_pilon_pilon_pilon	58.333	36	15	0	1	36	903815	903922	2.52e-10	53.9
+MiSSP6.6	scaffold3_size3686035_pilon_pilon_pilon	48.889	45	22	1	1	44	120893	120759	8.43e-06	41.2
+MiSSP6.6	scaffold3_size3686035_pilon_pilon_pilon	44.444	36	20	0	1	36	3062086	3062193	1.25e-05	40.8
+MiSSP6.6	scaffold8_size1574327_pilon_pilon_pilon	58.333	36	15	0	1	36	173440	173547	1.36e-09	52.0
+MiSSP6.6	scaffold6_size2091526_pilon_pilon_pilon	47.273	55	24	1	1	55	1977748	1977897	5.25e-09	50.4
+MiSSP6.6	scaffold6_size2091526_pilon_pilon_pilon	60.526	38	15	0	1	38	1953273	1953386	3.84e-08	47.8
+MiSSP6.6	scaffold6_size2091526_pilon_pilon_pilon	55.556	36	16	0	1	36	280015	279908	1.07e-07	46.6
+MiSSP6.6	scaffold6_size2091526_pilon_pilon_pilon	57.143	35	15	0	1	35	1633377	1633481	8.97e-07	43.9
+MiSSP6.6	scaffold2_size4775824_pilon_pilon_pilon	62.857	35	13	0	1	35	3346204	3346308	7.04e-09	50.1
+MiSSP6.6	scaffold34_size495310_pilon_pilon_pilon	45.614	57	25	1	1	57	71802	71650	7.54e-09	50.1
+MiSSP6.6	scaffold13_size1270817_pilon_pilon_pilon	55.556	36	16	0	1	36	578190	578083	1.27e-08	49.3
+MiSSP6.6	scaffold13_size1270817_pilon_pilon_pilon	39.286	56	30	1	1	56	637932	638087	1.56e-07	46.2
+MiSSP6.6	scaffold24_size965513_pilon_pilon_pilon	47.273	55	24	2	1	55	871671	871820	1.57e-08	48.9
+MiSSP6.6	scaffold7_size1793096_pilon_pilon_pilon	50.000	36	18	0	1	36	1335266	1335373	3.84e-08	47.8
+MiSSP6.6	scaffold9_size1517311_pilon_pilon_pilon	47.368	57	24	3	1	57	1406920	1406768	8.58e-08	47.0
+MiSSP6.6	scaffold12_size1499959_pilon_pilon_pilon	55.556	36	16	0	1	36	768337	768230	2.93e-07	45.4
+MiSSP6.6	scaffold12_size1499959_pilon_pilon_pilon	39.623	53	26	2	1	53	1315798	1315938	2.78e-06	42.7
+MiSSP6.6	scaffold20_size1062069_pilon_pilon_pilon	51.515	33	16	0	1	33	139520	139618	2.98e-07	45.4
+MiSSP6.6	scaffold20_size1062069_pilon_pilon_pilon	51.515	33	16	0	1	33	19802	19900	3.80e-06	42.4
+MiSSP6.6	scaffold20_size1062069_pilon_pilon_pilon	51.515	33	16	0	1	33	103536	103634	4.11e-06	42.4
+MiSSP6.6	scaffold25_size935105_pilon_pilon_pilon	50.000	34	17	0	1	34	705984	705883	5.28e-07	44.7
+MiSSP6.6	scaffold23_size997808_pilon_pilon_pilon	51.429	35	17	0	1	35	79046	79150	6.17e-07	44.7
+MiSSP6.6	scaffold47_size166575_pilon_pilon_pilon	48.936	47	23	1	1	46	120334	120474	6.74e-07	44.3
+# BLAST processed 1 queries

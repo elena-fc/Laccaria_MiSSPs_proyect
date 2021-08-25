@@ -1,0 +1,22 @@
+# TBLASTN 2.11.0+
+# Query: MiSSP21.37 XP_001888220.1
+# Database: ../data/Laccaria_trichodermophora_CA15-11.Rodo.fna
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 16 hits found
+MiSSP21.37	scaffold1_size917151_pilon_pilon_pilon	85.000	180	7	1	1	160	327519	326980	1.67e-83	270
+MiSSP21.37	scaffold1_size917151_pilon_pilon_pilon	55.828	163	33	3	40	163	771275	771763	2.05e-42	145
+MiSSP21.37	scaffold1_size917151_pilon_pilon_pilon	90.476	21	2	0	157	177	771798	771860	2.05e-42	45.8
+MiSSP21.37	scaffold1_size917151_pilon_pilon_pilon	75.556	45	7	1	1	41	769675	769809	8.24e-13	67.8
+MiSSP21.37	scaffold1_size917151_pilon_pilon_pilon	100.000	21	0	0	157	177	326932	326870	5.19e-06	47.8
+MiSSP21.37	scaffold430_size102115_pilon_pilon_pilon	83.425	181	10	1	1	161	22574	23116	1.43e-82	268
+MiSSP21.37	scaffold430_size102115_pilon_pilon_pilon	75.258	97	4	1	101	177	40333	40623	7.63e-40	145
+MiSSP21.37	scaffold430_size102115_pilon_pilon_pilon	100.000	21	0	0	157	177	23164	23226	6.01e-06	47.4
+MiSSP21.37	scaffold195_size149766_pilon_pilon_pilon	59.709	206	40	4	1	163	124040	124657	9.82e-61	205
+MiSSP21.37	scaffold195_size149766_pilon_pilon_pilon	90.476	21	2	0	157	177	124692	124754	1.95e-05	45.8
+MiSSP21.37	scaffold647_size32403_pilon_pilon_pilon	43.609	133	55	2	44	159	6352	6741	5.84e-26	98.6
+MiSSP21.37	scaffold647_size32403_pilon_pilon_pilon	80.000	20	4	0	157	176	6785	6844	5.84e-26	38.1
+MiSSP21.37	scaffold45_size347064_pilon_pilon_pilon	43.396	53	23	1	101	153	237157	237020	9.96e-14	52.4
+MiSSP21.37	scaffold45_size347064_pilon_pilon_pilon	85.714	21	3	0	157	177	236955	236893	9.96e-14	42.4
+MiSSP21.37	scaffold204_size143092_pilon_pilon_pilon	48.837	43	19	2	115	156	93886	93764	2.85e-10	42.4
+MiSSP21.37	scaffold204_size143092_pilon_pilon_pilon	80.952	21	4	0	157	177	93711	93649	2.85e-10	40.8
+# BLAST processed 1 queries

@@ -1,0 +1,24 @@
+# TBLASTN 2.11.0+
+# Query: MiSSP12 XP_001888075.1
+# Database: ../data/Laccaria_trichodermophora_CA15-11.Rodo.fna
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 18 hits found
+MiSSP12	scaffold441_size115644_pilon_pilon_pilon	83.784	111	17	1	1	111	17341	17670	1.30e-34	127
+MiSSP12	scaffold25_size809102_pilon_pilon_pilon	62.963	108	35	4	1	108	506662	506354	7.55e-24	96.3
+MiSSP12	scaffold25_size809102_pilon_pilon_pilon	62.963	108	31	4	1	108	405808	406104	8.55e-23	93.2
+MiSSP12	scaffold25_size809102_pilon_pilon_pilon	58.140	86	29	3	25	110	374728	374964	4.52e-17	77.0
+MiSSP12	scaffold25_size809102_pilon_pilon_pilon	58.824	102	38	3	1	102	328416	328709	8.92e-17	75.9
+MiSSP12	scaffold25_size809102_pilon_pilon_pilon	55.882	102	41	3	1	102	367181	367474	3.12e-16	74.3
+MiSSP12	scaffold25_size809102_pilon_pilon_pilon	57.843	102	29	3	1	102	551772	551509	5.22e-16	73.9
+MiSSP12	scaffold25_size809102_pilon_pilon_pilon	59.677	62	23	2	46	107	529802	529623	1.76e-14	69.3
+MiSSP12	scaffold25_size809102_pilon_pilon_pilon	54.286	105	26	4	1	103	501796	502050	2.69e-14	68.9
+MiSSP12	scaffold25_size809102_pilon_pilon_pilon	54.808	104	25	4	1	102	410459	410208	4.09e-14	68.6
+MiSSP12	scaffold25_size809102_pilon_pilon_pilon	54.386	57	25	1	46	102	554225	554058	5.86e-11	56.2
+MiSSP12	scaffold25_size809102_pilon_pilon_pilon	84.375	32	4	1	1	32	554350	554258	5.86e-11	27.3
+MiSSP12	scaffold25_size809102_pilon_pilon_pilon	51.429	105	29	4	1	103	411880	411626	6.07e-11	59.3
+MiSSP12	scaffold25_size809102_pilon_pilon_pilon	48.182	110	41	5	1	108	377681	377968	1.00e-09	55.8
+MiSSP12	scaffold25_size809102_pilon_pilon_pilon	49.524	105	31	4	1	103	498167	498421	1.13e-09	55.8
+MiSSP12	scaffold25_size809102_pilon_pilon_pilon	58.904	73	27	2	1	73	515795	515586	2.42e-08	52.0
+MiSSP12	scaffold25_size809102_pilon_pilon_pilon	41.818	55	31	1	47	101	555430	555269	3.08e-06	45.8
+MiSSP12	scaffold25_size809102_pilon_pilon_pilon	41.818	55	31	1	47	101	327349	327510	3.23e-06	45.8
+# BLAST processed 1 queries

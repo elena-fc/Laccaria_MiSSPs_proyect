@@ -1,0 +1,7 @@
+MiSSP21.37.Laccaria_amethystina_LaAM_08_1 15 hits found
+MiSSP21.37.Laccaria_bicolor_D101_1 16 hits found
+MiSSP21.37.Laccaria_bicolor_S238N_H82 5 hits found
+MiSSP21.37.Laccaria_trichodermophora_CA15-11.Rodo 16 hits found
+MiSSP21.37.Laccaria_trichodermophora_CA15-75.Rodo 16 hits found
+MiSSP21.37.Laccaria_trichodermophora_CA15-F10.Rodo 15 hits found
+MiSSP21.37.Laccaria_trichodermophora_EF-36.Rodo 6 hits found

@@ -1,0 +1,18 @@
+# TBLASTN 2.11.0+
+# Query: MiSSP12 XP_001888075.1
+# Database: ../data/Laccaria_bicolor_D101_1.fna
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 12 hits found
+MiSSP12	scaffold_1040	90.991	111	9	1	1	111	3575	3246	2.37e-42	148
+MiSSP12	scaffold_686	80.180	111	20	2	1	111	13098	12772	1.79e-29	111
+MiSSP12	scaffold_686	60.000	110	37	3	1	110	11343	11651	5.83e-20	84.3
+MiSSP12	scaffold_686	48.529	68	32	2	48	113	16734	16934	1.51e-11	54.3
+MiSSP12	scaffold_686	78.788	33	6	1	1	33	16603	16698	1.51e-11	30.8
+MiSSP12	scaffold_502	60.909	110	36	5	1	108	31299	31613	8.89e-21	87.0
+MiSSP12	scaffold_502	49.524	105	31	4	1	103	26724	26978	1.03e-10	58.2
+MiSSP12	scaffold_1123	66.972	109	34	2	1	109	5081	4761	2.90e-19	82.4
+MiSSP12	scaffold_282	53.398	103	43	4	1	102	53524	53228	4.07e-14	67.8
+MiSSP12	scaffold_623	52.885	104	33	4	1	102	5205	5474	4.99e-11	58.9
+MiSSP12	scaffold_122	56.923	65	28	0	1	65	84631	84437	3.23e-07	48.1
+MiSSP12	scaffold_740	42.857	70	31	4	46	113	3613	3801	2.87e-05	42.7
+# BLAST processed 1 queries

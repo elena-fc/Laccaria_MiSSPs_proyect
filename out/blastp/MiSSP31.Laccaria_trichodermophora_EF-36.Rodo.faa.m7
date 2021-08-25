@@ -1,0 +1,11 @@
+# BLASTP 2.11.0+
+# Query: MiSSP31 XP_001888724.1
+# Database: ../data/Laccaria_trichodermophora_EF-36.Rodo.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+MiSSP31	L.trichodermophoraEF-36_008137-T1	90.476	294	16	3	1	288	1	288	2.51e-72	223
+MiSSP31	L.trichodermophoraEF-36_004199-T1	40.000	90	44	2	1	88	1	82	5.41e-12	64.7
+MiSSP31	L.trichodermophoraEF-36_006300-T1	32.258	124	78	4	1	121	1	121	2.40e-10	59.3
+MiSSP31	L.trichodermophoraEF-36_008115-T1	43.548	62	35	0	26	87	152	213	2.23e-05	43.9
+MiSSP31	L.trichodermophoraEF-36_010754-T1	43.662	71	36	4	20	88	42	110	8.07e-05	42.0
+# BLAST processed 1 queries

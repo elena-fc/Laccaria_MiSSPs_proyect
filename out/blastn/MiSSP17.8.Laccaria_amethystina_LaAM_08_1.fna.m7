@@ -1,0 +1,10 @@
+# TBLASTN 2.11.0+
+# Query: MiSSP17.8 XP_001886750.1
+# Database: ../data/Laccaria_amethystina_LaAM_08_1.fna
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+MiSSP17.8	KN838590.1	61.745	149	32	2	57	180	51533	51979	1.55e-29	93.2
+MiSSP17.8	KN838590.1	85.455	55	8	0	1	55	51310	51474	1.55e-29	54.3
+MiSSP17.8	KN838776.1	50.667	75	17	2	57	112	15329	15108	4.30e-17	63.5
+MiSSP17.8	KN838776.1	58.929	56	22	1	1	55	15555	15388	4.30e-17	41.6
+# BLAST processed 1 queries

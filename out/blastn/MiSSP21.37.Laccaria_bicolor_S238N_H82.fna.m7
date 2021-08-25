@@ -1,0 +1,11 @@
+# TBLASTN 2.11.0+
+# Query: MiSSP21.37 XP_001888220.1
+# Database: ../data/Laccaria_bicolor_S238N_H82.fna
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+MiSSP21.37	NW_001889923.1	70.161	248	17	3	1	191	150347	149604	6.87e-91	291
+MiSSP21.37	NW_001889923.1	86.331	139	0	1	1	120	177873	177457	2.65e-59	200
+MiSSP21.37	NW_001889872.1	59.434	212	41	3	1	167	2457908	2457273	4.03e-63	211
+MiSSP21.37	NW_001889872.1	90.476	21	2	0	157	177	2457247	2457185	4.94e-06	47.0
+MiSSP21.37	NW_001889917.1	64.706	51	18	0	23	73	231596	231444	2.14e-11	62.8
+# BLAST processed 1 queries

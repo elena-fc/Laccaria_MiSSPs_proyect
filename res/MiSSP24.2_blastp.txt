@@ -1,0 +1,16 @@
+Fields:query acc.ver, % identity, alignment length, evalue
+MiSSP24.2Laccaria_amethystina_LaAM_08_1.faa.m7 	75.330	227	4.59e-115
+MiSSP24.2Laccaria_amethystina_LaAM_08_1.faa.m7 	59.155	71	3.37e-19
+MiSSP24.2Laccaria_amethystina_LaAM_08_1.faa.m7 	39.000	100	1.44e-11
+MiSSP24.2Laccaria_amethystina_LaAM_08_1.faa.m7 	34.000	100	1.54e-09
+MiSSP24.2Laccaria_bicolor_D101_1.faa.m7 	32.000	100	1.11e-09
+MiSSP24.2Laccaria_bicolor_S238N_H82.Rodo.faa.m7 	31.000	100	1.18e-08
+MiSSP24.2Laccaria_trichodermophora_CA15-11.faa.m7 	31.068	103	5.39e-08
+MiSSP24.2Laccaria_trichodermophora_CA15-11.faa.m7 	31.068	103	5.39e-08
+MiSSP24.2Laccaria_trichodermophora_CA15-11.faa.m7 	31.313	99	5.10e-07
+MiSSP24.2Laccaria_trichodermophora_CA15-75.faa.m7 	33.000	100	5.85e-10
+MiSSP24.2Laccaria_trichodermophora_CA15-75.faa.m7 	31.068	103	3.16e-08
+MiSSP24.2Laccaria_trichodermophora_CA15-F10.faa.m7 	83.019	53	2.86e-23
+MiSSP24.2Laccaria_trichodermophora_CA15-F10.faa.m7 	33.000	100	6.31e-10
+MiSSP24.2Laccaria_trichodermophora_CA15-F10.faa.m7 	31.068	103	3.41e-08
+MiSSP24.2Laccaria_trichodermophora_EF-36.faa.m7 	33.000	100	5.55e-10

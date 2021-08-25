@@ -1,0 +1,44 @@
+# TBLASTN 2.11.0+
+# Query: MiSSP23.5 XP_001878846.1
+# Database: ../data/Laccaria_trichodermophora_CA15-11.Rodo.fna
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 38 hits found
+MiSSP23.5	scaffold452_size56583_pilon_pilon_pilon	89.744	78	8	0	19	96	13919	13686	4.13e-74	147
+MiSSP23.5	scaffold452_size56583_pilon_pilon_pilon	73.913	92	4	1	97	168	13633	13358	4.13e-74	127
+MiSSP23.5	scaffold452_size56583_pilon_pilon_pilon	94.737	19	1	0	166	184	13316	13260	4.13e-74	43.9
+MiSSP23.5	scaffold452_size56583_pilon_pilon_pilon	47.826	69	4	1	202	238	13096	12890	3.32e-07	52.4
+MiSSP23.5	scaffold815_size23941_pilon_pilon_pilon	88.462	78	9	0	19	96	17029	16796	5.00e-74	147
+MiSSP23.5	scaffold815_size23941_pilon_pilon_pilon	73.913	92	4	1	97	168	16743	16468	5.00e-74	127
+MiSSP23.5	scaffold815_size23941_pilon_pilon_pilon	94.737	19	1	0	166	184	16426	16370	5.00e-74	43.9
+MiSSP23.5	scaffold815_size23941_pilon_pilon_pilon	47.826	69	4	1	202	238	16205	15999	1.56e-07	53.1
+MiSSP23.5	scaffold259_size179919_pilon_pilon_pilon	71.795	78	22	0	19	96	64336	64103	7.14e-49	125
+MiSSP23.5	scaffold259_size179919_pilon_pilon_pilon	50.000	86	27	1	99	168	64044	63787	7.14e-49	84.0
+MiSSP23.5	scaffold259_size179919_pilon_pilon_pilon	55.556	18	8	0	167	184	63740	63687	7.14e-49	25.4
+MiSSP23.5	scaffold259_size179919_pilon_pilon_pilon	70.513	78	23	0	19	96	6640	6873	1.74e-47	124
+MiSSP23.5	scaffold259_size179919_pilon_pilon_pilon	58.929	56	23	0	117	172	7035	7202	1.74e-47	70.1
+MiSSP23.5	scaffold259_size179919_pilon_pilon_pilon	54.545	22	10	0	99	120	6932	6997	1.74e-47	30.8
+MiSSP23.5	scaffold259_size179919_pilon_pilon_pilon	55.556	18	8	0	167	184	7237	7290	1.74e-47	25.4
+MiSSP23.5	scaffold259_size179919_pilon_pilon_pilon	73.750	80	19	1	19	96	60088	59849	2.48e-30	120
+MiSSP23.5	scaffold259_size179919_pilon_pilon_pilon	60.714	56	20	1	117	170	59684	59517	9.72e-12	65.9
+MiSSP23.5	scaffold58_size611457_pilon_pilon_pilon	64.103	117	24	1	19	117	555969	555619	1.12e-48	156
+MiSSP23.5	scaffold58_size611457_pilon_pilon_pilon	48.649	74	34	2	115	184	555577	555356	1.12e-48	57.0
+MiSSP23.5	scaffold141_size400359_pilon_pilon_pilon	64.103	117	24	1	19	117	390612	390962	1.60e-48	156
+MiSSP23.5	scaffold141_size400359_pilon_pilon_pilon	49.315	73	33	2	116	184	391007	391225	1.60e-48	56.2
+MiSSP23.5	scaffold353_size83603_pilon_pilon_pilon	51.031	194	44	5	19	168	42655	42095	4.25e-48	171
+MiSSP23.5	scaffold242_size122329_pilon_pilon_pilon	69.620	79	24	0	19	97	102143	101907	5.64e-48	123
+MiSSP23.5	scaffold242_size122329_pilon_pilon_pilon	47.778	90	31	1	99	172	101851	101582	5.64e-48	82.4
+MiSSP23.5	scaffold242_size122329_pilon_pilon_pilon	55.556	18	8	0	167	184	101547	101494	5.64e-48	25.4
+MiSSP23.5	scaffold242_size122329_pilon_pilon_pilon	71.795	78	22	0	19	96	65744	65977	1.77e-47	124
+MiSSP23.5	scaffold242_size122329_pilon_pilon_pilon	63.462	52	19	0	117	168	66139	66294	1.77e-47	72.0
+MiSSP23.5	scaffold242_size122329_pilon_pilon_pilon	57.895	19	8	0	99	117	66036	66092	1.77e-47	28.5
+MiSSP23.5	scaffold242_size122329_pilon_pilon_pilon	55.556	18	8	0	167	184	66341	66394	1.77e-47	25.4
+MiSSP23.5	scaffold242_size122329_pilon_pilon_pilon	73.750	80	19	1	19	96	70022	70261	1.20e-41	120
+MiSSP23.5	scaffold242_size122329_pilon_pilon_pilon	60.714	56	20	1	117	170	70426	70593	1.20e-41	65.5
+MiSSP23.5	scaffold242_size122329_pilon_pilon_pilon	52.941	17	8	0	101	117	70329	70379	1.20e-41	24.3
+MiSSP23.5	scaffold242_size122329_pilon_pilon_pilon	44.845	194	64	5	19	169	4706	5287	1.88e-41	152
+MiSSP23.5	scaffold357_size111087_pilon_pilon_pilon	44.845	194	64	5	19	169	43396	43977	2.07e-41	152
+MiSSP23.5	scaffold357_size111087_pilon_pilon_pilon	46.575	146	34	5	52	157	37274	36849	2.42e-26	108
+MiSSP23.5	scaffold357_size111087_pilon_pilon_pilon	40.000	115	57	3	19	121	35015	34671	6.66e-26	87.4
+MiSSP23.5	scaffold357_size111087_pilon_pilon_pilon	60.526	38	10	3	132	165	34591	34481	6.66e-26	38.5
+MiSSP23.5	scaffold357_size111087_pilon_pilon_pilon	86.667	15	2	0	117	131	34635	34591	6.66e-26	30.4
+# BLAST processed 1 queries

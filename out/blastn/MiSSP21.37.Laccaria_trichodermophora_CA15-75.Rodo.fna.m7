@@ -1,0 +1,22 @@
+# TBLASTN 2.11.0+
+# Query: MiSSP21.37 XP_001888220.1
+# Database: ../data/Laccaria_trichodermophora_CA15-75.Rodo.fna
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 16 hits found
+MiSSP21.37	scaffold3186_size5948	83.889	180	9	1	1	160	5260	5799	2.95e-82	266
+MiSSP21.37	scaffold3186_size5948	100.000	21	0	0	157	177	5847	5909	4.79e-06	47.4
+MiSSP21.37	scaffold2860_size6397	94.118	102	6	0	1	102	1114	809	1.16e-79	163
+MiSSP21.37	scaffold2860_size6397	79.381	97	0	1	101	177	755	465	1.16e-79	152
+MiSSP21.37	scaffold3321_size5779	53.646	192	28	4	47	177	5779	5204	3.53e-47	166
+MiSSP21.37	scaffold59821_size255	82.609	69	8	1	9	73	3	209	4.40e-32	112
+MiSSP21.37	scaffold47011_size255	82.609	69	8	1	9	73	3	209	4.40e-32	112
+MiSSP21.37	scaffold5906_size4274	43.609	133	55	2	44	159	1894	2283	4.03e-26	98.6
+MiSSP21.37	scaffold5906_size4274	80.000	20	4	0	157	176	2327	2386	4.03e-26	38.1
+MiSSP21.37	scaffold319_size18126	48.148	54	21	1	101	154	4844	4704	1.83e-16	62.8
+MiSSP21.37	scaffold319_size18126	80.952	21	4	0	157	177	4638	4576	1.83e-16	40.8
+MiSSP21.37	scaffold212_size20861	75.510	49	8	1	1	45	149	3	9.57e-15	72.8
+MiSSP21.37	scaffold597_size14425	47.170	53	21	1	101	153	1450	1313	9.92e-15	57.8
+MiSSP21.37	scaffold597_size14425	80.952	21	4	0	157	177	1248	1186	9.92e-15	40.0
+MiSSP21.37	scaffold1861_size8345	68.627	51	16	0	23	73	5473	5625	2.44e-12	65.9
+MiSSP21.37	scaffold322_size18062	47.500	40	18	1	105	144	4757	4647	4.98e-05	44.7
+# BLAST processed 1 queries

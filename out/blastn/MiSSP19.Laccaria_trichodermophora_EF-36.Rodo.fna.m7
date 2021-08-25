@@ -1,0 +1,9 @@
+# TBLASTN 2.11.0+
+# Query: MiSSP19 XP_001888710.1
+# Database: ../data/Laccaria_trichodermophora_EF-36.Rodo.fna
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+MiSSP19	scaffold27_size836498_pilon_pilon_pilon	91.667	72	5	1	94	164	294452	294237	3.70e-50	127
+MiSSP19	scaffold27_size836498_pilon_pilon_pilon	91.667	48	4	0	30	77	294708	294565	3.70e-50	88.6
+MiSSP19	scaffold27_size836498_pilon_pilon_pilon	76.000	50	10	2	30	77	291416	291267	2.12e-13	67.4
+# BLAST processed 1 queries

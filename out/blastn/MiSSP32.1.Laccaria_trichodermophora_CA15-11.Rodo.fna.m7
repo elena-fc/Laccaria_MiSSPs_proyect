@@ -1,0 +1,27 @@
+# TBLASTN 2.11.0+
+# Query: MiSSP32.1 XP_001883153.1
+# Database: ../data/Laccaria_trichodermophora_CA15-11.Rodo.fna
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 21 hits found
+MiSSP32.1	scaffold16_size679563_pilon_pilon_pilon	66.917	133	9	2	89	186	166804	166406	5.60e-81	165
+MiSSP32.1	scaffold16_size679563_pilon_pilon_pilon	88.158	76	8	1	1	76	167126	166902	5.60e-81	134
+MiSSP32.1	scaffold16_size679563_pilon_pilon_pilon	68.421	19	6	0	181	199	166365	166309	5.60e-81	32.3
+MiSSP32.1	scaffold16_size679563_pilon_pilon_pilon	76.471	17	4	0	76	92	166905	166855	5.60e-81	31.2
+MiSSP32.1	scaffold16_size679563_pilon_pilon_pilon	44.872	78	24	1	141	199	6141	6374	2.50e-31	65.1
+MiSSP32.1	scaffold16_size679563_pilon_pilon_pilon	43.478	69	22	1	89	140	5881	6087	2.50e-31	60.1
+MiSSP32.1	scaffold16_size679563_pilon_pilon_pilon	58.974	39	16	0	54	92	5715	5831	2.50e-31	50.4
+MiSSP32.1	scaffold16_size679563_pilon_pilon_pilon	82.979	47	8	0	1	47	5295	5435	1.98e-16	81.3
+MiSSP32.1	scaffold16_size679563_pilon_pilon_pilon	96.774	31	1	0	261	291	166089	165997	2.57e-10	62.8
+MiSSP32.1	scaffold267_size112121_pilon_pilon_pilon	56.383	94	40	1	1	94	46878	47156	1.79e-33	107
+MiSSP32.1	scaffold267_size112121_pilon_pilon_pilon	28.000	125	53	3	112	199	47323	47697	1.79e-33	44.7
+MiSSP32.1	scaffold267_size112121_pilon_pilon_pilon	52.381	21	10	0	89	109	47198	47260	1.79e-33	30.4
+MiSSP32.1	scaffold267_size112121_pilon_pilon_pilon	60.465	43	17	0	141	183	47463	47591	9.86e-09	57.8
+MiSSP32.1	scaffold21_size500086_pilon_pilon_pilon	62.766	94	34	1	1	94	87579	87857	1.04e-31	100
+MiSSP32.1	scaffold21_size500086_pilon_pilon_pilon	27.200	125	54	2	112	199	88024	88398	1.04e-31	44.3
+MiSSP32.1	scaffold21_size500086_pilon_pilon_pilon	57.143	21	9	0	89	109	87899	87961	1.04e-31	32.0
+MiSSP32.1	scaffold21_size500086_pilon_pilon_pilon	62.791	43	16	0	141	183	88164	88292	2.37e-09	59.7
+MiSSP32.1	scaffold161_size176691_pilon_pilon_pilon	42.308	78	26	1	141	199	24618	24385	3.23e-29	61.6
+MiSSP32.1	scaffold161_size176691_pilon_pilon_pilon	41.429	70	23	1	89	140	24881	24672	3.23e-29	57.4
+MiSSP32.1	scaffold161_size176691_pilon_pilon_pilon	56.410	39	17	0	54	92	25047	24931	3.23e-29	48.9
+MiSSP32.1	scaffold161_size176691_pilon_pilon_pilon	78.723	47	10	0	1	47	25467	25327	5.06e-14	73.9
+# BLAST processed 1 queries

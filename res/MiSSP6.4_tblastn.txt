@@ -1,0 +1,9 @@
+Fields:query acc.ver, % identity, alignment length, evalue
+MiSSP6.4Laccaria_bicolor_D101_1.fna.m7 	92.857	56	2.61e-29
+MiSSP6.4Laccaria_bicolor_S238N_H82.fna.m7 	100.000	56	7.65e-32
+MiSSP6.4Laccaria_trichodermophora_CA15-11.fna.m7 	94.545	55	2.22e-28
+MiSSP6.4Laccaria_trichodermophora_CA15-11.fna.m7 	89.286	56	5.62e-27
+MiSSP6.4Laccaria_trichodermophora_CA15-75.fna.m7 	94.545	55	1.86e-28
+MiSSP6.4Laccaria_trichodermophora_CA15-75.fna.m7 	89.286	56	4.71e-27
+MiSSP6.4Laccaria_trichodermophora_CA15-F10.fna.m7 	87.500	56	1.90e-27
+MiSSP6.4Laccaria_trichodermophora_EF-36.fna.m7 	89.286	56	2.97e-27

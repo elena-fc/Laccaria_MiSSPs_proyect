@@ -1,0 +1,2 @@
+Fields:query acc.ver, % identity, alignment length, evalue
+MiSSP7Laccaria_amethystina_LaAM_08_1.faa.m7 	78.873	71	1.01e-32

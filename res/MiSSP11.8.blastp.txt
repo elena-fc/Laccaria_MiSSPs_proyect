@@ -1,0 +1,1 @@
+Fields:query acc.ver, % identity, alignment length, evalue

@@ -1,0 +1,8 @@
+# TBLASTN 2.11.0+
+# Query: MiSSP6.5 XP_001886529.1
+# Database: ../data/Laccaria_trichodermophora_CA15-F10.Rodo.fna
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+MiSSP6.5	scaffold1172_size9166	89.744	39	4	0	1	39	8124	8240	4.90e-16	70.1
+MiSSP6.5	scaffold1172_size9166	80.000	15	3	0	40	54	8245	8289	4.90e-16	30.8
+# BLAST processed 1 queries
